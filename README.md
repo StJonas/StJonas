@@ -25,7 +25,7 @@ Already learned 300+ Kanji.
 ### 🧘 650+ Days of Meditation (Waking Up App)
 
 <p align="center">
-  <img src="images/wakingup_meditation.jpg" alt="650+ Days Meditation Streak" width="400"/>
+  <img src="images/wakingup_meditation.jpeg" alt="650+ Days Meditation Streak" width="400"/>
 </p>
 
 650+ days of meditation practice using the Waking Up app.
